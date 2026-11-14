@@ -20,7 +20,7 @@ requiere descargas!** Solo abre tu navegador web.
 - **Consejos clave**:
 
 
-### Lección 2: Estructura básica de HTML (minutos)
+### Lección 2: Estructura básica de HTML (3:24 minutos)
 - **Descripción**: Explicación del esqueleto básico de un documento HTML y de los elementos que lo componen para comprender cómo se organiza una página web.
 - **Enlace**: [Ver la lección](https://youtu.be/pZCNaSrKooY)
 - **Conceptos clave**:

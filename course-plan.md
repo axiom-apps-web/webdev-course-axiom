@@ -30,10 +30,9 @@ requiere descargas!** Solo abre tu navegador web.
 
 
 ### Lección 3: Elementos HTML fundamentales ( minutos)
-- **Descripción**: 
+- **Descripción**: Implementacion de elementos html utilizados frecuentemente en el desarrollo web.
 - **Enlace**: [Ver la lección]()
-- **Consejos clave**: 
-- **Estructura básica**: 
+- **Consejos clave**: reimplementar cada elemento visto en la leccion y entender como funcionan en una pagina web.
 
 ### Lección 4: Introducción a CSS y estilos básicos ( minutos)
 - **Descripción**: 

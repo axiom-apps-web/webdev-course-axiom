@@ -17,16 +17,23 @@ requiere descargas!** Solo abre tu navegador web.
 ### Lección 1: Introducción al desarrollo web ( minutos)
 - **Descripción**: 
 - **Enlace**: [Ver la lección]()
-- **Consejos clave**: 
-### Lección 2: Estructura básica de HTML ( minutos)
-- **Descripción**: 
-- **Enlace**: [Ver la lección]()
-- **Consejos clave**: 
+- **Consejos clave**:
+
+
+### Lección 2: Estructura básica de HTML (minutos)
+- **Descripción**: Explicación del esqueleto básico de un documento HTML y de los elementos que lo componen para comprender cómo se organiza una página web.
+- **Enlace**: [Ver la lección](https://youtu.be/pZCNaSrKooY)
+- **Conceptos clave**:
+  - **Etiqueta**: Una palabra escrita entre `< >`, por ejemplo `<p>`.
+  - **Elemento**: La etiqueta de apertura, el contenido y la etiqueta de cierre.
+  - **Atributo**: Información extra dentro de la etiqueta, como `src` o `href`.
+
 
 ### Lección 3: Elementos HTML fundamentales ( minutos)
 - **Descripción**: 
 - **Enlace**: [Ver la lección]()
-- **Consejos clave**:  
+- **Consejos clave**: 
+- **Estructura básica**: 
 
 ### Lección 4: Introducción a CSS y estilos básicos ( minutos)
 - **Descripción**: 

@@ -38,7 +38,7 @@ requiere descargas!** Solo abre tu navegador web.
 - **Enlace**: [Ver la lección]()
 - **Consejos clave**: reimplementar cada elemento visto en la leccion y entender como funcionan en una pagina web.
 
-### Lección 4: Introducción a CSS y estilos básicos (XX:XX minutos)
+### Lección 4: Introducción a CSS y estilos básicos (8:43 minutos)
 - **Descripción**: Dale color y estilo a la página de presentación de la lección anterior usando CSS: colores, fuentes, bordes, espacios y clases.
 - **Enlace**: [Ver la lección](https://youtu.be/fs8j12fzNhc)
 - **Consejos clave**: Una regla CSS tiene selector, propiedad y valor, por ejemplo `h1 { color: tomato; }`. Cada propiedad termina en punto y coma.

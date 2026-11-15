@@ -14,10 +14,14 @@ requiere descargas!** Solo abre tu navegador web.
 
 **📂 Repositorio de código fuente**: [https://github.com/axiom-apps-web/webdev-course-axiom](https://github.com/axiom-apps-web/webdev-course-axiom)
 ## Secuencia de la lección
-### Lección 1: Introducción al desarrollo web ( minutos)
-- **Descripción**: 
-- **Enlace**: [Ver la lección]()
-- **Consejos clave**:
+### Lección 1: Introducción al desarrollo web (8:11 minutos)
+
+
+* **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
+* **Enlace**: [Ver la lección](https://youtu.be/Hk5tmD_LWaA)
+* **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
+* **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=your-starter)
+
 
 
 ### Lección 2: Estructura básica de HTML (3:24 minutos)

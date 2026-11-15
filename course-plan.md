@@ -48,7 +48,8 @@ requiere descargas!** Solo abre tu navegador web.
 
 - **Descripción:** En esta lección integraremos los conocimientos adquiridos de HTML y CSS mediante la creación de una página de perfil personal. También aprenderemos a identificar y corregir errores frecuentes en el código.
 - **Duración:** Pendiente de confirmar.
-- **Enlace del video:** Pendiente de publicación.
+- **Enlace del video:
+- **Enlace del video:** [Ver video de la Lección 05](https://youtu.be/HblamXLSSQk)
 - **Consejos clave:** Cerrar correctamente las etiquetas HTML, utilizar las propiedades CSS adecuadas, revisar las rutas de las imágenes y comprobar los resultados después de cada modificación.
 - **Práctica:** Crear una página de perfil personal con HTML y CSS utilizando CodePen.
 - **Código inicial:** [Ver ejercicio inicial](starter-files/leccion-05/index.html).

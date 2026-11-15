@@ -43,10 +43,18 @@ requiere descargas!** Solo abre tu navegador web.
 - **Enlace**: [Ver la lección](https://youtu.be/fs8j12fzNhc)
 - **Consejos clave**: Una regla CSS tiene selector, propiedad y valor, por ejemplo `h1 { color: tomato; }`. Cada propiedad termina en punto y coma.
 - **Práctica**: [Aplicar estilo en CodePen](https://codepen.io/editor/vysidrol/pen/01a1e084-487c-7e26-abe2-b9dd2f2190bc)  Para editarlo sin cuenta, copia el código en un pen nuevo de [codepen.io/pen](https://codepen.io/pen).
-### Lección 5: Proyecto final y buenas prácticas ( minutos)
-- **Descripción**:
-- **Enlace**: [Ver la lección]()
-- **Consejos clave**: 
+
+### Lección 5: Proyecto final y buenas prácticas
+
+- **Descripción:** En esta lección integraremos los conocimientos adquiridos de HTML y CSS mediante la creación de una página de perfil personal. También aprenderemos a identificar y corregir errores frecuentes en el código.
+- **Duración:** Pendiente de confirmar.
+- **Enlace del video:** Pendiente de publicación.
+- **Consejos clave:** Cerrar correctamente las etiquetas HTML, utilizar las propiedades CSS adecuadas, revisar las rutas de las imágenes y comprobar los resultados después de cada modificación.
+- **Práctica:** Crear una página de perfil personal con HTML y CSS utilizando CodePen.
+- **Código inicial:** [Ver ejercicio inicial](starter-files/leccion-05/index.html).
+- **Ejemplo terminado:** [Ver ejemplo completo](completed-examples/leccion-05/index.html).
+- **Guion:** [Ver guion de la lección](scripts/leccion-05/leccion-05.md).
+ 
 
 **¡Gracias por completar el curso!**
 ---

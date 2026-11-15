@@ -38,10 +38,11 @@ requiere descargas!** Solo abre tu navegador web.
 - **Enlace**: [Ver la lección]()
 - **Consejos clave**: reimplementar cada elemento visto en la leccion y entender como funcionan en una pagina web.
 
-### Lección 4: Introducción a CSS y estilos básicos ( minutos)
-- **Descripción**: 
-- **Enlace**: [Ver la lección]()
-- **Consejos clave**: 
+### Lección 4: Introducción a CSS y estilos básicos (8:43 minutos)
+- **Descripción**: Dale color y estilo a la página de presentación de la lección anterior usando CSS: colores, fuentes, bordes, espacios y clases.
+- **Enlace**: [Ver la lección](https://youtu.be/fs8j12fzNhc)
+- **Consejos clave**: Una regla CSS tiene selector, propiedad y valor, por ejemplo `h1 { color: tomato; }`. Cada propiedad termina en punto y coma.
+- **Práctica**: [Aplicar estilo en CodePen](https://codepen.io/editor/vysidrol/pen/01a1e084-487c-7e26-abe2-b9dd2f2190bc)  Para editarlo sin cuenta, copia el código en un pen nuevo de [codepen.io/pen](https://codepen.io/pen).
 ### Lección 5: Proyecto final y buenas prácticas ( minutos)
 - **Descripción**:
 - **Enlace**: [Ver la lección]()

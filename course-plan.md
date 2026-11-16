@@ -33,9 +33,9 @@ requiere descargas!** Solo abre tu navegador web.
   - **Atributo**: Información extra dentro de la etiqueta, como `src` o `href`.
 
 
-### Lección 3: Elementos HTML fundamentales ( minutos)
+### Lección 3: Elementos HTML fundamentales (18:26 minutos)
 - **Descripción**: Implementacion de elementos html utilizados frecuentemente en el desarrollo web.
-- **Enlace**: [Ver la lección]()
+- **Enlace**: [Ver la lección](https://youtu.be/ldroosgR-3E)
 - **Consejos clave**: reimplementar cada elemento visto en la leccion y entender como funcionan en una pagina web.
 
 ### Lección 4: Introducción a CSS y estilos básicos (8:43 minutos)
@@ -43,10 +43,10 @@ requiere descargas!** Solo abre tu navegador web.
 - **Enlace**: [Ver la lección](https://youtu.be/fs8j12fzNhc)
 - **Consejos clave**: Una regla CSS tiene selector, propiedad y valor, por ejemplo `h1 { color: tomato; }`. Cada propiedad termina en punto y coma.
 - **Práctica**: [Aplicar estilo en CodePen](https://codepen.io/editor/vysidrol/pen/01a1e084-487c-7e26-abe2-b9dd2f2190bc)  Para editarlo sin cuenta, copia el código en un pen nuevo de [codepen.io/pen](https://codepen.io/pen).
-### Lección 5: Proyecto final y buenas prácticas ( minutos)
-- **Descripción**:
-- **Enlace**: [Ver la lección]()
-- **Consejos clave**: 
+### Lección 5: Proyecto final y buenas prácticas (6:51 minutos)
+- **Descripción**: Proyecto Final
+- **Enlace**: [Ver la lección](https://youtu.be/HblamXLSSQk)
+- **Consejos clave**: Sigue aprendiendo
 
 **¡Gracias por completar el curso!**
 ---
@@ -64,4 +64,4 @@ NRC 8137
 - Alison Ariana Segura Guerra
 - Valeria Milagros Ysidro Llashag
 - Manuel Alejandro Molina Vasquez
-**Fecha de entrega**: [Fecha]
+**Fecha de entrega**: 15/11/2026
